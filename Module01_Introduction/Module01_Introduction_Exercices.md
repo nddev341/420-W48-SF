@@ -151,7 +151,7 @@ Faites différentes version de votre programme pour que :
 
 ## Exercice 3 - Persistance rétinienne
 
-Créez un nouveau programme qui allume et éteigne la del à une fréquence suffisante pour que vos yeux ne constatent pas les changements d'états à cause de l'effet de la  ```persistance rétinienne ```. Notez cette valeur.
+Créez un nouveau programme qui allume et éteigne la del à une fréquence suffisante pour que vos yeux ne constatent pas les changements d'états à cause de l'effet de la  ```persistance rétinienne ```. Notez cette valeur.  "10"
 
 ## Exercice 4 - SOS en morse
 
